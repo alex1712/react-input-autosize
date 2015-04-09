@@ -1,6 +1,6 @@
 {
   "name": "react-input-autosize",
-  "version": "0.4.3",
+  "version": "0.4.4",
   "description": "Auto-resizing Input Component for React",
   "main": "lib/AutosizeInput.js",
   "author": "Jed Watson",
@@ -15,7 +15,6 @@
     "eslint": "^0.18.0",
     "gulp": "^3.8.11",
     "jest-cli": "^0.4.0",
-    "react": ">=0.12.0",
     "react-component-gulp-tasks": "^0.4.4"
   },
   "peerDependencies": {
